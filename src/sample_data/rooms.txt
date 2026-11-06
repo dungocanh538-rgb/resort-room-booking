@@ -1,0 +1,7 @@
+1001|Superior|Superior Garden View|False|2000000.0
+1002|Deluxe Double|Deluxe Garden View|True|2400000.0
+1003|Deluxe Twin|Deluxe Twin Garden View|False|2400000.0
+1004|Family Suite|Deluxe Ocean View|True|3500000.0
+2001|Superior|Superior Garden View|False|2000000.0
+2002|Deluxe Double|Deluxe Ocean View|False|2800000.0
+2003|Family Suite|Deluxe Ocean View|True|3500000.0
